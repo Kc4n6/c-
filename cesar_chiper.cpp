@@ -1,4 +1,4 @@
-//Hocam aynı şekilde linux sistem dosya yolarını değiştirirseniz çalışır. İyi çalışmalar.
+
 
 
 #include<string.h>
